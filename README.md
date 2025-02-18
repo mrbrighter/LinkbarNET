@@ -93,4 +93,4 @@ Siehe [LICENSE](LICENSE) für weitere Details.
 
 ## 📥 Download
 
-Du kannst die aktuellste Version direkt von [GitLab Releases]([https://github.com/mrbrighter/LinkbarNET.git/-/releases](https://github.com/mrbrighter/LinkbarNET/releases)) herunterladen.
+Du kannst die aktuellste Version direkt von [GitLab Releases](https://github.com/mrbrighter/LinkbarNET/releases) herunterladen.
